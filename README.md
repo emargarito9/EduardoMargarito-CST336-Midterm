@@ -10,4 +10,9 @@ Q3)
 1,2
 1,2,3,4,...10000,10002,....,100000
 Q4)
+          Document
+            Html
+ (head)             (Body)
+ Title           img         p
+My Page        My image    My Name My info
 
